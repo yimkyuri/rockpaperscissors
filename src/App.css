@@ -1,0 +1,22 @@
+.box {
+  border:1px solid black;
+  width: 300px;
+  text-align: center;
+  margin:0 10px;
+}
+
+.item-img {
+  width: 80%;
+
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.button-area {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
